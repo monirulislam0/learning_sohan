@@ -1,0 +1,18 @@
+#img{
+	border: 15px solid red;
+}
+#one{
+	height: 100px;
+	width: 300px;
+	background: yellow;
+}
+#two{
+	height: 100px;
+	width: 500px;
+	background: red;
+}
+#three{
+	height: 100px;
+	width: 300px;
+	background: blue;
+}

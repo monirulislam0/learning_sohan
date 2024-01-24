@@ -1,0 +1,50 @@
+.account ul li{
+	list-style: none;
+	display: inline-block;
+	background: tomato;
+	margin-right:0.5px;
+/*	padding: 10px; */
+/* adfaf sdf*/
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+.account ul li a{
+	color: white;
+	text-decoration: none;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+.menu ul li{
+	list-style: none;
+	display: inline-block;
+	padding:10px;
+	background: tomato;
+}
+.logo p{
+	color: white;
+	background: black;
+	display: inline-block;
+	font-size: 20px;
+	font-weight: bold;
+}
+.logo{width: 20%;}
+.menu{width: 49%}
+.account{width: 30%;}
+
+.parent{
+	width: 1000px;
+	background: black;
+	margin-right: auto;
+	margin-left: auto;
+}
+.parent div{
+	display: inline-block;
+}
+
